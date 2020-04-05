@@ -11,7 +11,7 @@ Run **_Project.py**
 
 ## Use your own files :
     U can use your own files but following things should be done carefully :
-    -> The file should have **".txt"** extension.
+    -> The file should have ".txt" extension.
     -> Question should be entered on one line.
     -> Answer should be on the very next line of the question. Write the answer in the way u want to display it.
    
