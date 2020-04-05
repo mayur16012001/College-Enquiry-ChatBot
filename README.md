@@ -2,9 +2,9 @@
 A simple chatbot which reads the text files provided to it and gives answers accordingly.If it does not answer the question u have asked than u can feed any answer for your question.The answer u have feeded will be stored in the file automatically for later use.
 
 # Import
-importing all required modules
-import time
-import tkinter
+    importing all required modules
+    import time
+    import tkinter
 
 # Run
 Run **_Project.py**
